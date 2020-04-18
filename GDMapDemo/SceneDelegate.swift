@@ -62,5 +62,3 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
 }
 
-
-

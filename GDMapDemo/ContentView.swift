@@ -10,9 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        
-        MapView()
-            .frame(width: 400, height: 500, alignment: .center)
+        Text("Hello, World!")
     }
 }
 

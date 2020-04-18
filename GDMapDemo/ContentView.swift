@@ -14,6 +14,7 @@ struct ContentView: View {
         MapView()
             .frame(width: 400, height: 500, alignment: .center)
     }
+    
 }
 
 struct ContentView_Previews: PreviewProvider {
